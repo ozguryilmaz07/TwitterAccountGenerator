@@ -1,0 +1,11 @@
+{
+  "threads": 5,
+  "capsolver_key": "CAP-123",
+  "yescaptcha_key": "1234",
+  "allowed_captcha_solvers": ["capsolver"],
+  "kopeechka_key": "1234",
+  "account_password": "IHateFaggots45!",
+  "accepted_email_domains": ["outlook"],
+  "use_pfp": true,
+  "use_username": true
+}

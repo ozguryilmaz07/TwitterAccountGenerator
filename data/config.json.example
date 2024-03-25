@@ -1,0 +1,10 @@
+{
+  "threads": 5,
+  "capsolver_key": "CAP-345",
+  "allowed_captcha_solvers": ["capsolver", "yescaptcha"],
+  "kopeechka_key": "1234213213",
+  "account_password": "ddadad21321432!",
+  "accepted_email_domains": ["outlook"],
+  "use_pfp": false,
+  "use_username": true
+}

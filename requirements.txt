@@ -1,0 +1,5 @@
+colorlog
+httpx[http2]
+oauthlib
+requests_oauthlib
+attrs
